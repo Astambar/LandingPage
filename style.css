@@ -101,6 +101,6 @@ main section{
 .introduction #title {
 	color:green;
 }
-#about {
-	background-color: whitesmoke;
+#about h1 {
+	color:red
 }
