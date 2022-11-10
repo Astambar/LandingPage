@@ -101,6 +101,6 @@ main section{
 .introduction #title {
 	color:green;
 }
-#about h1 {
-	color:red
+h1 {
+	color:red;
 }
